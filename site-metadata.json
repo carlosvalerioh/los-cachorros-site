@@ -28,7 +28,7 @@
         {
             "type": "action",
             "template": "action",
-            "title": "informacion",
+            "title": "INFORMACIÓN",
             "url": "/informacion",
             "style": "link"
         }
