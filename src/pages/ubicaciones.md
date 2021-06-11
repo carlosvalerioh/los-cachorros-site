@@ -23,7 +23,7 @@ sections:
       Cel: 5624418690\n\n## <br>  \n**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local
       15, Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556001586\n\n## <br>
       \  \n**CACHORRITOS**\n\nAv Frutas y Legumbres Edif 3 Local 1 y 2, Central de
-      Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556949266\n* Cel: 5539598129\n\n##
+      Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556949266\n* Cel: 5539598129\n\n## <br>
       \  \n**GRAND PUPPY ROMA**\n\nCalle Medellín No. 209, Col. Roma Sur\n\nAlc. Cuauhtémoc,
       CDMX. C.P. 06760\n\nTel: 5572625500\n\nCel: 5517789125"
     image: "/images/lucrezia-carnelos-8dzrkse0leg-unsplash.jpg"
