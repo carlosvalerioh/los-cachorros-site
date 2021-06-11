@@ -58,7 +58,7 @@ sections:
   - type: promotion_section
     template: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Encuentra TODAS las marcas y a los mejores precios.
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
