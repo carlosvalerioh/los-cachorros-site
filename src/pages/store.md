@@ -28,14 +28,6 @@ sections:
     url: "/store"
     style: secondary
     arrow: true
-- template: contact_section
-  type: contact_section
-  image: "/images/mamaps-3.png"
-  mapUrl: https://goo.gl/maps/vksfdrQF9L9HAMGK7
-  address: Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc. Iztapalapa,
-    CDMX C.P. 09040
-  phone: 'Tel: 5556947398'
-  email: 'Cel: 5584787997'
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
