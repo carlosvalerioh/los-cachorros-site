@@ -56,7 +56,7 @@ sections:
     email: 'Cel: 5584787997'
     mapUrl: 'https://goo.gl/maps/1pKXedEw85Bh7dxs7'
     type: contact_section
-    image: /images/mamaps-3.png
+    image: images/mamaps-3.png
   - type: promotion_section
     section_id: promotion_section
     title: Encuentra TODAS las marcas y a los mejores precios.
