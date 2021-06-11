@@ -16,7 +16,7 @@ price: '1,585'
 order: 
 default_thumbnail_image: "/images/diamond-large-breed-puppy-lamb-rice.jpg"
 default_original_image: "/images/diamond-large-breed-puppy-lamb-rice.jpg"
-category: ''
+category: 'src/pages/category/perros-diamond.md'
 featured: false
 
 ---
