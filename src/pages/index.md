@@ -67,7 +67,7 @@ sections:
       template: action
       title: Ver Ahora
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   type: stackbit_page_meta
