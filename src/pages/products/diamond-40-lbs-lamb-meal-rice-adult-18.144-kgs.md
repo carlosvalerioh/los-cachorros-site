@@ -17,7 +17,7 @@ price: '1,325'
 order: 
 default_thumbnail_image: "/images/diamond-lamb-meal-rice-adult.jpg"
 default_original_image: "/images/diamond-lamb-meal-rice-adult.jpg"
-category: src/pages/category/perros-diamond.md
+category: src/pages/category/PERROS-DIAMOND.md
 featured: false
 
 ---
