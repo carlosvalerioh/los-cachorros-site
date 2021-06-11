@@ -5,12 +5,15 @@ sections:
 - type: header_section
   template: header_section
   section_id: header_section
-  background_image: "/images/adorable-parsley.png"
+  background_image: images/adorable-parsley.png
   headline: Los Cachorros
   subtitle: Todas las marcas de alimentos y alimentos premium, accesorios, juguetes
     y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de
     ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de
     México encuentra la más cercana a ti.
+- section_id: lorem-ipsum
+  type: promotion_section
+  background_image: images/karsten-winegeart-tiwbjn8t7ze-unsplash-1.jpg
 - type: bulletpoints_section
   template: bulletpoints_section
   section_id: bulletpoints_section
