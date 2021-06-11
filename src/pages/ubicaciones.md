@@ -5,7 +5,7 @@ sections:
 - type: header_section
   template: header_section
   section_id: header_section
-  background_image: "/images/adorable-parsley.png"
+  background_image: images/adorable-parsley.png
   headline: Los Cachorros
   subtitle: Todas las marcas de alimentos y alimentos premium, accesorios, juguetes
     y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de
