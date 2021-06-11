@@ -23,7 +23,7 @@ sections:
     subtitle: 10 tiendas en la CDMX
     cta:
       title: UBICACIONES
-      url: '#'
+      url: /ubicaciones
       style: primary
       arrow: false
       type: action
