@@ -6,7 +6,7 @@ seo:
   robots: []
   extra: []
 template: product
-id: ''
+id: '0047'
 title: Hills perro Adult Original 35 Lb 15.9 Kg
 description: SKU:AO159 <br> El alimento para perros Hill's Science Diet Adult Receta
   de Harina de Cordero y Arroz, proporciona nutrición balanceada con precisión para
