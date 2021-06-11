@@ -51,6 +51,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/products/adulto-excellent-raza-pequena-3.5kg.md
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
 - src/pages/products/plant3.md
