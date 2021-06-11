@@ -55,6 +55,16 @@ sections:
         author:
           name: Major Payne
           location: 'VA, USA'
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
