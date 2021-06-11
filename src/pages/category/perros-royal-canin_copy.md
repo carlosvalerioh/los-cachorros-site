@@ -1,12 +1,12 @@
 ---
 seo:
   type: stackbit_page_meta
-  title: 'PERROS - ROYAL CANIN'
+  title: 'PERROS - DIAMOND'
   description: ''
   robots: []
   extra: []
 template: category
-title: PERROS - ROYAL CANIN
+title: PERROS - DIAMOND
 order: '013'
 
 ---
