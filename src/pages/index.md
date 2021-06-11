@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Los Cachorros
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Todas las marcas de alimentos y alimentos premium para tus mascotas a los
+      mejores precios.
     actions:
       - type: action
         template: action
