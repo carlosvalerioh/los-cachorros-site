@@ -6,7 +6,7 @@ seo:
   robots: []
   extra: []
 template: product
-id: ''
+id: '045'
 title: Hills perro Adult light 30 Lb 13.6 Kg
 description: SKU:AL136 <br> El alimento para perros Hill's Science Diet Adult Light
   proporciona nutrición balanceada con precisión para un estilo de vida ligero y sano.
