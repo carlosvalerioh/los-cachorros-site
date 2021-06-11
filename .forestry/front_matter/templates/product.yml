@@ -52,6 +52,7 @@ fields:
     required: true
 pages:
 - src/pages/products/adulto-excellent-raza-pequena-3.5kg.md
+- src/pages/products/diamond-20-lbs-lamb-meal-rice-adult-9.72-kgs.md
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
 - src/pages/products/plant3.md
