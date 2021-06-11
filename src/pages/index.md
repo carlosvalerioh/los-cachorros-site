@@ -55,20 +55,6 @@ sections:
         author:
           name: Major Payne
           location: 'VA, USA'
-  - type: promotion_section
-    template: promotion_section
-    section_id: promotion_section
-    title: Encuentra TODAS las marcas y a los mejores precios.
-    subtitle: Desde $ 180
-    image: /images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
-    background_image: /images/noun_Dog_3587160-6.png
-    cta:
-      type: action
-      template: action
-      title: Ver Ahora
-      url: /store
-      style: primary
-      arrow: true
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
