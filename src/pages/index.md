@@ -40,7 +40,7 @@ sections:
           terminaban pronto, ahora pido bultos de comida más grandes y me rinden
           mucho más tiempo.
         author:
-          name: John Dope
+          name: 'MIGUEL '
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
