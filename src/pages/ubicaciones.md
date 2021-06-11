@@ -27,12 +27,20 @@ sections:
       \  \n**GRAND PUPPY ROMA**\n\nCalle Medellín No. 209, Col. Roma Sur\n\nAlc. Cuauhtémoc,
       CDMX. C.P. 06760\n\nTel: 5572625500\n\nCel: 5517789125"
     image: "/images/lucrezia-carnelos-8dzrkse0leg-unsplash.jpg"
-  - title: We think plants are the future
-    description: Word. But good **code** _can_ solve a lots of problems, too. New
-      _and_ old. That’s why we help beginners get started with web development through
-      free content and tools, like this theme. We also believe [the JAMstack](https://jamstack.org/)
-      might be one solid pillar on which we build that future.
-    image: images/team.jpg
+  - title: ''
+    description: "# **THE GIANT DOG**\n\nAV SUR 16 No. 80, Esq. Oriente 243 – A\n\nCol.
+      Agrícola Oriental. CDMX, C.P. 08500\n\nTel: 5541683632\n\nCel: 5539261478\n\n#
+      \  \n**GRAND DOG ORIENTAL**\n\nSur 24 No. 412 esq. Ote. 253 Col. Agrícola Oriental
+      Alc. Iztacalco, 08500 CDMX\n\n* Tel : 5568403891\n\n\n* Cel: 5520835339\n\n#####
+      \  \n**CACHORRITOS ORIENTAL**\n\nSur 24 No. 31, Col. Agrícola Oriental Alc.
+      Iztacalco, 08500 CDMX\n\n* Tel : 5588499036\n\n\n* Cel: 5548060687\n\n#####
+      \  \n**GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No. 449 Local B, Entre calle 2 de
+      Sur 16 y Retorno 3 de Sur 16\n\nCol. Agrícola Oriental, Alc. Iztacalco, CDMX,
+      C.P. 08500\n\n* Tel: 5587557387\n\n\n* Cel: 5539241690\n\n#####   \n**UNIDAD
+      RASTRO**\n\nInterior del Mercado Unidad Rastro Locales 92 - 92 – 94.\n\nEstaño
+      350, Col. Felipe Ángeles, Alc. Venustiano Carranza, C.P. 15310 CDMX\n\n* Tel:
+      5588793527\n\n\n* Cel: 5535062116"
+    image: "/images/lucrezia-carnelos-0liytl4djxk-unsplash.jpg"
 - type: promotion_section
   template: promotion_section
   section_id: promotion_section
