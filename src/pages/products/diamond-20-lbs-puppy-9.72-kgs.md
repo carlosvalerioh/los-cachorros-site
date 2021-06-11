@@ -16,7 +16,7 @@ price: "745"
 order: 
 default_thumbnail_image: "/images/diamond-puppy.jpg"
 default_original_image: "/images/diamond-puppy.jpg"
-category: src/pages/category/perros-diamond.md
+category: src/pages/category/PERROS-DIAMOND.md
 featured: false
 
 ---
