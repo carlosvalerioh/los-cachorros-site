@@ -1,0 +1,31 @@
+---
+label: Category
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+- type: number
+  name: order
+  label: Order
+  description: Numerical order of sorting categories
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: category
+  config:
+    required: true
+pages:
+- src/pages/category/bigplants.md
+- src/pages/category/cactuses.md
+- src/pages/category/europe.md
+- src/pages/category/summer.md
