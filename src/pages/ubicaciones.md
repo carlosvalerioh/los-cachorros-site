@@ -20,7 +20,7 @@ sections:
       Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556947398\n\n\n*
       Cel: 5584787997\n\n## <br>   \n**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol
       1 G-H, Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5570902496\n\n\n*
-      Cel: 5624418690\n\n##   \n**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local
+      Cel: 5624418690\n\n## <br>  \n**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local
       15, Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556001586\n\n##
       \  \n**CACHORRITOS**\n\nAv Frutas y Legumbres Edif 3 Local 1 y 2, Central de
       Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556949266\n* Cel: 5539598129\n\n##
