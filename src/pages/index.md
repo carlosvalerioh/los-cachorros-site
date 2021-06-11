@@ -60,7 +60,7 @@ sections:
     section_id: promotion_section
     title: Encuentra TODAS las marcas y a los mejores precios.
     subtitle: Desde $ 180
-    image: images/promo.jpg
+    image: /images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
     background_image: images/leaf.svg
     cta:
       type: action
