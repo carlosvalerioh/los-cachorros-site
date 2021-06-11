@@ -25,6 +25,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/category/europe.md
 - src/pages/category/gatos-minino.md
 - src/pages/category/summer.md
