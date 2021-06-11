@@ -14,7 +14,7 @@
         {
             "type": "action",
             "template": "action",
-            "title": "Store",
+            "title": "CATÁLOGO",
             "url": "/store",
             "style": "link"
         },
