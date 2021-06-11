@@ -17,16 +17,16 @@ sections:
 - type: promotion_section
   template: promotion_section
   section_id: promotion_section
-  title: A new home interior for summer
-  subtitle: from $149.99
-  image: images/promo.jpg
-  background_image: "/images/leaf.svg"
+  title: Conoce todas nuestras ubicaciones
+  subtitle: 10 tiendas en la CDMX
+  image: "/images/brooke-cagle-eycex1e9eiy-unsplash.jpg"
+  background_image: "/images/noun_Dog_3587160-6.png"
   cta:
     type: action
     template: action
-    title: Discover
-    url: "/store"
-    style: secondary
+    title: UBICACIONES
+    url: "/ubicaciones"
+    style: primary
     arrow: true
 seo:
   type: stackbit_page_meta
