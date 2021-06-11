@@ -176,7 +176,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: About
+  title: Ubicaciones
   description: This is the about page
   extra:
     - name: 'og:type'
