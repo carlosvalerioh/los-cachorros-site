@@ -41,7 +41,7 @@ sections:
           mucho más tiempo.
         author:
           name: 'MIGUEL '
-          location: 'Colorado, USA'
+          location: 26 AÑOS
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
