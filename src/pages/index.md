@@ -49,21 +49,25 @@ sections:
           name: Major Payne
           location: 'VA, USA'
   - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    cta:
-      title: lorem-ipsum
-      url: '#'
-      style: primary
-      arrow: false
-      type: action
-    type: promotion_section
-  - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
+    address: >-
+      Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
+      Iztapalapa, CDMX C.P. 09040
+    phone: 'Tel: 5556947398'
+    email: 'Cel: 5584787997'
+    mapUrl: 'https://goo.gl/maps/1pKXedEw85Bh7dxs7'
     type: contact_section
+    image: images/mamaps-2.png
+  - type: promotion_section
+    section_id: promotion_section
+    title: Encuentra TODAS las marcas y a los mejores precios.
+    subtitle: desde $ 180
+    image: images/lucrezia-carnelos-se39QTzU5bk-unsplash.jpg
+    background_image: images/noun_Dog_3587160-6.png
+    cta:
+      title: VER AHORA
+      url: /store
+      style: primary
+      arrow: true
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
