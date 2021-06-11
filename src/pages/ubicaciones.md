@@ -5,13 +5,12 @@ sections:
 - type: header_section
   template: header_section
   section_id: header_section
-  background_image: "/images/leaf-light-grey.svg"
-  headline: We are Planty
-  subtitle: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-    from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
-    a killer JAMstack site-builder. To enable e-commerce on Planty, you’ll need to
-    [sign up for Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit
-    card required.
+  background_image: "/images/adorable-parsley.png"
+  headline: Los Cachorros
+  subtitle: Todas las marcas de alimentos y alimentos premium, accesorios, juguetes
+    y premios para tus mascotas a los mejores precios. Encuéntranos lo más cerca de
+    ti, tenemos 10 tiendas en distintas ubicaciones alrededor de toda la Ciudad de
+    México encuentra la más cercana a ti.
 - type: bulletpoints_section
   template: bulletpoints_section
   section_id: bulletpoints_section
@@ -40,7 +39,7 @@ sections:
   cta:
     type: action
     template: action
-    title: Ir al Catálogo
+    title: Ir al
     url: "/store"
     style: primary
     arrow: true
