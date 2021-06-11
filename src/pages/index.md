@@ -33,7 +33,7 @@ sections:
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: RESEÑAS
     testimonials:
       - text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
