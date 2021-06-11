@@ -15,7 +15,7 @@ price: '1,170'
 order: 
 default_thumbnail_image: "/images/diamond-adulto-premium.jpg"
 default_original_image: "/images/diamond-adulto-premium.jpg"
-category: src/pages/category/perros-diamond.md
+category: src/pages/category/PERROS-DIAMOND.md
 featured: false
 
 ---
