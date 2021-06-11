@@ -36,9 +36,9 @@ sections:
     title: RESEÑAS
     testimonials:
       - text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          Antes no compraba bultos pequeños de alimento para mi perrito pero se
+          terminaban pronto, ahora pido bultos de comida más grandes y me rinden
+          mucho más tiempo.
         author:
           name: John Dope
           location: 'Colorado, USA'
