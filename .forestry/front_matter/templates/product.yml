@@ -51,7 +51,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/diamond-18-lbs.senior-8-naturals-8.164-kgs.md
 - src/pages/products/adulto-excellent-raza-pequena-3.5kg.md
 - src/pages/products/diamond-18-lbs.senior-8-naturals-8.164-kgs.md
 - src/pages/products/diamond-20-lbs-adulto-premium-9.72-kgs.md
