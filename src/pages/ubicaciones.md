@@ -39,7 +39,7 @@ sections:
       Iztacalco, 08500 CDMX\n\n* Tel : 5588499036\n\n\n* Cel: 5548060687\n\n#####
       \  \n**GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No. 449 Local B, Entre calle 2 de
       Sur 16 y Retorno 3 de Sur 16\n\nCol. Agrícola Oriental, Alc. Iztacalco, CDMX,
-      C.P. 08500\n\n* Tel: 5587557387\n\n\n* Cel: 5539241690\n\n#####   \n**UNIDAD
+      C.P. 08500\n\n* Tel: 5587557387\n\n\n* Cel: 5539241690\n\n##### <br>  \n**UNIDAD
       RASTRO**\n\nInterior del Mercado Unidad Rastro Locales 92 - 92 – 94.\n\nEstaño
       350, Col. Felipe Ángeles, Alc. Venustiano Carranza, C.P. 15310 CDMX\n\n* Tel:
       5588793527\n\n\n* Cel: 5535062116"
