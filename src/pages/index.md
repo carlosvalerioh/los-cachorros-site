@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/karsten-winegeart-tIWBJN8t7zE-unsplash.jpg
     background_image_opacity: 65
     content: >
       # Los Cachorros
