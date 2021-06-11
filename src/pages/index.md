@@ -65,7 +65,7 @@ sections:
     cta:
       type: action
       template: action
-      title: Discover
+      title: Ver Ahora
       url: /store
       style: secondary
       arrow: true
