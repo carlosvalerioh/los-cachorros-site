@@ -1,7 +1,7 @@
 ---
 seo:
   type: stackbit_page_meta
-  title: ''
+  title: 'PERROS - PRO PLAN'
   description: ''
   robots: []
   extra: []
