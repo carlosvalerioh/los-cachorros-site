@@ -21,8 +21,8 @@
         {
             "type": "action",
             "template": "action",
-            "title": "About",
-            "url": "/about",
+            "title": "ubicaciones",
+            "url": "/ubicaciones",
             "style": "link"
         },
         {

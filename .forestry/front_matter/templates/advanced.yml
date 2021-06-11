@@ -45,5 +45,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/about.md
+- src/pages/ubicaciones.md
 - src/pages/faq.md
