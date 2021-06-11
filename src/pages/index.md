@@ -87,4 +87,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 template: home
+title: Home
 ---
