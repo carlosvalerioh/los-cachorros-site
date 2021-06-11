@@ -169,7 +169,7 @@ sections:
     cta:
       type: action
       template: action
-      title: Ir al Ca
+      title: Ir al Catálogo
       url: /store
       style: primary
       arrow: true
