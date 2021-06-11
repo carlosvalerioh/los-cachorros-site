@@ -28,8 +28,8 @@
         {
             "type": "action",
             "template": "action",
-            "title": "FAQ",
-            "url": "/faq",
+            "title": "informacion",
+            "url": "/informacion",
             "style": "link"
         }
     ],

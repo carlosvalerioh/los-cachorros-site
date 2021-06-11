@@ -46,4 +46,4 @@ fields:
     required: true
 pages:
 - src/pages/ubicaciones.md
-- src/pages/faq.md
+- src/pages/informacion.md
