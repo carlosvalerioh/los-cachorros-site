@@ -34,7 +34,7 @@ sections:
     description: "# **THE GIANT DOG**\n\nAV SUR 16 No. 80, Esq. Oriente 243 – A\n\nCol.
       Agrícola Oriental. CDMX, C.P. 08500\n\nTel: 5541683632\n\nCel: 5539261478\n\n# <br>
       \  \n**GRAND DOG ORIENTAL**\n\nSur 24 No. 412 esq. Ote. 253 Col. Agrícola Oriental
-      Alc. Iztacalco, 08500 CDMX\n\n* Tel : 5568403891\n\n\n* Cel: 5520835339\n\n#####
+      Alc. Iztacalco, 08500 CDMX\n\n* Tel : 5568403891\n\n\n* Cel: 5520835339\n\n##### <br>
       \  \n**CACHORRITOS ORIENTAL**\n\nSur 24 No. 31, Col. Agrícola Oriental Alc.
       Iztacalco, 08500 CDMX\n\n* Tel : 5588499036\n\n\n* Cel: 5548060687\n\n#####
       \  \n**GRAND PUPPY ORIENTAL**\n\nAV SUR 16 No. 449 Local B, Entre calle 2 de
