@@ -1,5 +1,5 @@
 ---
-title: ubicaciones
+title: Ubicaciones
 page_css_class: gray-background
 sections:
   - type: header_section
