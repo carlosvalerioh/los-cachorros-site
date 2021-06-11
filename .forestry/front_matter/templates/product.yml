@@ -51,6 +51,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/diamond-18-lbs.senior-8-naturals-8.164-kgs.md
 - src/pages/diamond-40-lbs-puppy-18.144-kgs.md
 - src/pages/diamond-6-lbs-large-breed-puppy-lamb-rice-2.722-kgs.md
 - src/pages/products/adulto-excellent-raza-pequena-3.5kg.md
@@ -70,6 +71,7 @@ pages:
 - src/pages/products/hills-perro-adult-original-15-lb-6.8-kg.md
 - src/pages/products/hills-perro-adult-original-35-lb-15.9-kg.md
 - src/pages/products/hills-perro-adult-original-5-lb-2.3-kg.md
+- src/pages/products/hills-perro-adult-original-lamb-rice-33-lb-15-kg.md
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
 - src/pages/products/plant3.md
