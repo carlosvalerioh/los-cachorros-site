@@ -1,7 +1,7 @@
 ---
 seo:
   type: stackbit_page_meta
-  title: ''
+  title: 'PERROS - ROYAL CANIN'
   description: ''
   robots: []
   extra: []
