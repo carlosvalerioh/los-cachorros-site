@@ -47,8 +47,8 @@ sections:
           un mejor precio. Así mi mascota come mejor alimento y es más accesible
           para miy ARE greener than any of my recruits.
         author:
-          name: Major Payne
-          location: 'VA, USA'
+          name: MARTA
+          location: 64 AÑOS
   - section_id: lorem-ipsum
     address: >-
       Av Frutas y Legumbres Edif 1 Locales 4 y 5, Central de Abasto, Alc.
