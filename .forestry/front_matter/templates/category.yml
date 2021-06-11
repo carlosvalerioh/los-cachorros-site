@@ -26,4 +26,3 @@ fields:
     required: true
 pages:
 - src/pages/category/gatos-minino.md
-- src/pages/category/summer.md
