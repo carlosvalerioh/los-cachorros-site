@@ -16,7 +16,7 @@ sections:
     actions:
       - type: action
         template: action
-        title: See all items
+        title: CATÁLOGO
         url: /store
         style: primary
         arrow: true
