@@ -18,7 +18,7 @@ sections:
   - title: NUESTRAS UBICACIONES
     description: "# **EL CACHORRIN**\n\nAv Frutas y Legumbres Edif 1 Locales 4 y 5,
       Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556947398\n\n\n*
-      Cel: 5584787997\n\n##   \n**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol
+      Cel: 5584787997\n\n## <br>   \n**GRAND PUPPY**\n\nAv. Frutas y Legumbres, Caracol
       1 G-H, Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5570902496\n\n\n*
       Cel: 5624418690\n\n##   \n**CACHORROS**\n\nAv Frutas y Legumbres Edif 4 Local
       15, Central de Abasto,\n\nAlc. Iztapalapa, CDMX C.P. 09040\n\n* Tel: 5556001586\n\n##
