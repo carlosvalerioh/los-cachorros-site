@@ -16,7 +16,7 @@ price: "295"
 order: 
 default_thumbnail_image: "/images/diamond-senior-8-naturals.jpg"
 default_original_image: "/images/diamond-senior-8-naturals.jpg"
-category: src/pages/category/perros-diamond.md
+category: src/pages/category/perros-full-trust.md
 featured: false
 
 ---
