@@ -51,6 +51,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/hills-perro-puppy-small-bites-4.5-lb-2-kg.md
 - src/pages/products/adulto-excellent-raza-pequena-3.5kg.md
 - src/pages/products/diamond-18-lbs.senior-8-naturals-8.164-kgs.md
 - src/pages/products/diamond-20-lbs-adulto-premium-9.72-kgs.md
