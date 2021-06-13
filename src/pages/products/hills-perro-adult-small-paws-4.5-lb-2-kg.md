@@ -8,7 +8,7 @@ seo:
 template: product
 id: '0053'
 title: Hills perro Adult Small Paws 4.5 Lb 2 Kg
-description: SKU:ASP2 <br> Este alimento seco para perros de razas pequeñas está balanceado
+description: SKU:ASP2 Este alimento seco para perros de razas pequeñas está balanceado
   con precisión y es fácil de digerir, con proteínas de alta calidad y calcio para
   dar soporte a los músculos y huesos de tu perro pequeño.
 price: "380"
