@@ -8,9 +8,9 @@ seo:
 template: product
 id: '0075'
 title: Hills perro k/d 8.5 Lb 3.9 Kg
-description: SKU:KD39 <br> Hill's PRESCRIPTION DIET k/d alimento para perros es un
-  alimento dietético completo para ayudar a la función renal en caso de insuficiencia
-  renal crónica o pasajera en perros adultos. Este alimento dietético tiene bajo contenido
+description: SKU:KD39 Hill's PRESCRIPTION DIET k/d alimento para perros es un alimento
+  dietético completo para ayudar a la función renal en caso de insuficiencia renal
+  crónica o pasajera en perros adultos. Este alimento dietético tiene bajo contenido
   de fósforo y contenido limitado de proteínas, pero de alta calidad.
 price: "675"
 order: 
