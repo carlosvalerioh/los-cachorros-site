@@ -8,8 +8,8 @@ seo:
 template: product
 id: '0079'
 title: Hills perro Puppy Original 30 Lb 13.6 Kg
-description: SKU:PO136 <br> Hill's Science Diet Puppy. Este alimento premium seco
-  para cachorros está especialmente formulado para satisfacer las necesidades nutricionales
+description: SKU:PO136 Hill's Science Diet Puppy. Este alimento premium seco para
+  cachorros está especialmente formulado para satisfacer las necesidades nutricionales
   de los pequeños. Proporciona DHA natural de aceite de pescado y niveles óptimos
   de minerales para favorecer el desarrollo del cerebro, ojos y esqueleto.
 price: '1,650'
