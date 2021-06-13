@@ -8,7 +8,7 @@ seo:
 template: product
 id: '0058'
 title: Hills perro Senior Vitality 7+ 12.5 Lb 5.7 Kg
-description: SKU:AV757 <br> El alimento para perros Hill's Science Diet Youthful Vitality
+description: SKU:AV757  El alimento para perros Hill's Science Diet Youthful Vitality
   proporciona nutrición balanceada con precisión para combatir los efectos del envejecimiento
   en perros adultos mayores de 7 años y más.
 price: '1,010'
