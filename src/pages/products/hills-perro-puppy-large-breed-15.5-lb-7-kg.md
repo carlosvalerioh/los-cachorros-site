@@ -8,8 +8,8 @@ seo:
 template: product
 id: '0078'
 title: Hills perro Puppy Large Breed 15.5 Lb 7 Kg
-description: SKU:PLB7 <br> El alimento seco para perros Hill's Science Diet Puppy
-  Large Breed proporciona fuentes naturales de glucosamina y condroitina, los elementos
+description: SKU:PLB7 El alimento seco para perros Hill's Science Diet Puppy Large
+  Breed proporciona fuentes naturales de glucosamina y condroitina, los elementos
   constitutivos para huesos y articulaciones sanas, y está hecho con una mezcla antioxidante
   clínicamente comprobada con vitaminas C y E para favorecer un sistema inmunológico
   sano. De a tu perro grande una vida más sana y más feliz con el alimento Science
