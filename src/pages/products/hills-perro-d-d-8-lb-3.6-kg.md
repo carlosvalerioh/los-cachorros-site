@@ -8,7 +8,7 @@ seo:
 template: product
 id: '0063'
 title: Hills perro d/d 8 Lb 3.6 Kg
-description: SKU:DD36 <br> Alimento dietético coadyudante en el tratamiento de dermatitis
+description: SKU:DD36 Alimento dietético coadyudante en el tratamiento de dermatitis
   alérgica y gastroenteritis de origen dietético. También se puede utilizar como una
   prueba dietética para el diagnostico deferencial de alergias alimentarias
 price: "750"
