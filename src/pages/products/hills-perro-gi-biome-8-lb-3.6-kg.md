@@ -8,8 +8,8 @@ seo:
 template: product
 id: '0066'
 title: Hills perro GI Biome 8 Lb 3.6 Kg
-description: SKU:GB36 <br> Prescription Diet® Bioma gastrointestinal con ActivBiome
-  + una nueva tecnología de ingredientes, está especialmente formulado por nutricionistas
+description: SKU:GB36 Prescription Diet® Bioma gastrointestinal con ActivBiome + una
+  nueva tecnología de ingredientes, está especialmente formulado por nutricionistas
   y veterinarios para el cuidado digestivo para resolver la diarrea en tan solo 24
   horas, promover heces saludables, limitar futuros episodios de diarrea, nutrir y
   activar el microbioma intestinal.
