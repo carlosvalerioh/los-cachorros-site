@@ -8,7 +8,7 @@ seo:
 template: product
 id: '0054'
 title: Hills perro Adult Small Paws 15.5 Lb 7 Kg
-description: SKU:ASP7 <br> Este alimento seco para perros de razas pequeñas está balanceado
+description: SKU:ASP7 Este alimento seco para perros de razas pequeñas está balanceado
   con precisión y es fácil de digerir, con proteínas de alta calidad y calcio para
   dar soporte a los músculos y huesos de tu perro pequeño.
 price: '1,010'
