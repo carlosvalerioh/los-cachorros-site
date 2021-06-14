@@ -14,8 +14,8 @@ description: SKU:HE15  Alimento balanceado para perros adultos a partir de los 1
 price: '1,295'
 order: 
 default_thumbnail_image: "/images/club-he-dog-15-kg.jpg"
-default_original_image: ''
-category: ''
+default_original_image: "/images/club-he-dog-15-kg.jpg"
+category: src/pages/category/perros-royal-canin.md
 featured: false
 
 ---
