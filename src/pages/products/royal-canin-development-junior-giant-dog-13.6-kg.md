@@ -13,8 +13,8 @@ description: SKU:RDJG136 Alimento para cachorrros de raza gigante con peso adult
   meses de edad.
 price: '1,530'
 order: 
-default_thumbnail_image: "/images/royal-canin-development-junior-giant-dog.png"
-default_original_image: "/images/royal-canin-development-junior-giant-dog.png"
+default_thumbnail_image: "/images/royal-canin-development-junior-giant-dog.jpg"
+default_original_image: "/images/royal-canin-development-junior-giant-dog.jpg"
 category: src/pages/category/perros-royal-canin.md
 featured: false
 
