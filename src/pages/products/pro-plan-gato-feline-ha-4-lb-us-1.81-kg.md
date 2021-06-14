@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: '00256'
-title: Pro Plan Gato  feline HA 4 lb us 1.81 kg
+title: Pro Plan Gato feline HA 4 lb us 1.81 kg
 description: 'SKU:PGHA181 Fórmula indicada para gatos con hipersensibilidad alimentaria,
   causante de signos clínicos que afectan a la piel y el tracto gastrointestinal como
   dermatosis alérgica no estacional y gastroenteritis. Reduce la inflamación asociada
