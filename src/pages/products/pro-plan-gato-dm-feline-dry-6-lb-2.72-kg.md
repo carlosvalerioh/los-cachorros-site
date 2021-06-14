@@ -8,7 +8,7 @@ seo:
 template: product
 id: '00255'
 title: Pro Plan Gato Dm feline dry 6 lb 2.72 kg
-description: SKU:PGDM272 <br> Indicado para apoyar el tratamiento de Diabetes Mellitus
+description: SKU:PGDM272 Indicado para apoyar el tratamiento de Diabetes Mellitus
   y de otros disturbios fisiológicos o metabólicos que sean beneficiados por una dieta
   rica en proteínas y baja en carbohidratos. Estimula la secreción de insulina en
   las células B pancreáticas. Contiene niveles elevados de proteínas con aminoácidos
