@@ -15,8 +15,8 @@ description: SKU:PEXARP35 <br> PROTEÍNAS DE ALTA DIGESTIBILIDAD Los perros de t
   irresistible.
 price: "285"
 order: 
-default_thumbnail_image: "/images/purina_excellent_cachorropolloyarrozrazaspequenasproducto.png"
-default_original_image: "/images/purina_excellent_cachorropolloyarrozrazaspequenasproducto.png"
+default_thumbnail_image: "/images/excellent-adulto-raza-pequena.jpg"
+default_original_image: "/images/excellent-adulto-raza-pequena.jpg"
 category: src/pages/category/perros-pro-plan.md
 featured: false
 
