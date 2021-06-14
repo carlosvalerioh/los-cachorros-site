@@ -8,7 +8,7 @@ seo:
 template: product
 id: '00252'
 title: Pro Plan Gato Adulto sensitive 3 kg
-description: SKU:PGASE3 <br> Brinda un alimento completo y balanceado a tu gato adulto.
+description: SKU:PGASE3 Brinda un alimento completo y balanceado a tu gato adulto.
   Los gatos adultos pueden padecer ciertas intolerancias alimentarias, expresadas
   a través de trastornos en la piel, manto piloso y sistema digestivo. Sus croquetas
   están hechas con una tecnología exclusiva, con un número limitado de fuentes de
