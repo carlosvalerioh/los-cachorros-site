@@ -8,9 +8,9 @@ seo:
 template: product
 id: '00268'
 title: Pro Plan Perro NC canine 2.72 kg
-description: SKU:PNC272 <br> Alimento completo y balanceado para perros de todas las
-  edades. Especialmente formulado para ayudar en el control de la epilepsia idiopática,
-  en el síndrome de disfunción cognitiva y para perros en edad avanzada que presentan
+description: SKU:PNC272 Alimento completo y balanceado para perros de todas las edades.
+  Especialmente formulado para ayudar en el control de la epilepsia idiopática, en
+  el síndrome de disfunción cognitiva y para perros en edad avanzada que presentan
   déficit cognitivo senil.
 price: "520"
 order: 
