@@ -8,9 +8,9 @@ seo:
 template: product
 id: '00240'
 title: " PURINA Excellent adulto raza pequeña 3.5 kg"
-description: SKU:PEXARP35 <br> PROTEÍNAS DE ALTA DIGESTIBILIDAD Los perros de tamaño
-  pequeño tienen altos requerimientos proteicos. PURINA Excellent ADULTO POLLO Y ARROZ
-  RAZAS PEQUEÑAS ofrece una fórmula completa que incluye aminoácidos esenciales, inulina,
+description: SKU:PEXARP35 PROTEÍNAS DE ALTA DIGESTIBILIDAD Los perros de tamaño pequeño
+  tienen altos requerimientos proteicos. PURINA Excellent ADULTO POLLO Y ARROZ RAZAS
+  PEQUEÑAS ofrece una fórmula completa que incluye aminoácidos esenciales, inulina,
   vitaminas, minerales y zeolita, aportando un óptimo balance nutricional y un sabor
   irresistible.
 price: "285"
