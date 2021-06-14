@@ -8,7 +8,7 @@ seo:
 template: product
 id: '00248'
 title: Pro Plan Gato Adulto  7.5 kg
-description: SKU:PGA75 <br> Alimento completo y balanceado para gatos adultos de todas
+description: SKU:PGA75 Alimento completo y balanceado para gatos adultos de todas
   las razas. Es una tecnología exclusiva, con una combinación de prebióticos y antioxidantes
   naturales, que ayudan a optimizar la digestión y a mantener fuertes las defensas
   naturales de tu gato, protegiendo su sistema inmunológico contra las amenazas externas.
