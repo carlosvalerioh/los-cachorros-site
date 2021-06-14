@@ -13,8 +13,8 @@ description: SKU:RFB272 Condición de la masa muscular. El Bulldog Francés suel
   gracias a un contenido adecuado de proteínas (24% mín.). Enriquecido con L-carnitina.
 price: "490"
 order: 
-default_thumbnail_image: "/images/royal-canin-french-bulldog.jpg"
-default_original_image: "/images/royal-canin-french-bulldog.jpg"
+default_thumbnail_image: "/images/royal-canin-french-bulldog-1.jpg"
+default_original_image: "/images/royal-canin-french-bulldog-1.jpg"
 category: src/pages/category/perros-royal-canin.md
 featured: false
 
