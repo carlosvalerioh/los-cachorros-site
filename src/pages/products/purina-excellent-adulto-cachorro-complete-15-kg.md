@@ -15,8 +15,8 @@ description: SKU:PEXC15 <br> PURINA presenta formulas completas y balanceadas a 
   y una gran vitalidad.
 price: "960"
 order: 
-default_thumbnail_image: "/images/cachorro-excellent-raza-pequena.jpg"
-default_original_image: "/images/cachorro-excellent-raza-pequena.jpg"
+default_thumbnail_image: "/images/excellent-cachorro-complete-20-kg.jpg"
+default_original_image: "/images/excellent-cachorro-complete-20-kg.jpg"
 category: src/pages/category/perros-pro-plan.md
 featured: false
 
