@@ -8,8 +8,8 @@ seo:
 template: product
 id: '00266'
 title: Pro Plan Gatito 1.5 kg
-description: 'SKU:PK15 <br> Gatitos saludables:  Este alimento para gatitos de corta
-  edad combina nutrientes que le aportarán la energía y vitalidad que necesitan durante
+description: 'SKU:PK15 Gatitos saludables:  Este alimento para gatitos de corta edad
+  combina nutrientes que le aportarán la energía y vitalidad que necesitan durante
   sus primeros meses de vida, además de contribuir a una nutrición equilibrada para
   que crezcan sanos y fuertes.'
 price: "300"
