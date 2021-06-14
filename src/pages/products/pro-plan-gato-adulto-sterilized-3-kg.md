@@ -8,7 +8,7 @@ seo:
 template: product
 id: '00249'
 title: Pro Plan Gato Adulto sterilized 3 kg
-description: SKU:PGAES3 <br> Tecnología OptiRenal®, una mezcla exclusiva de nutrientes
+description: SKU:PGAES3 Tecnología OptiRenal®, una mezcla exclusiva de nutrientes
   incluyendo antioxidantes, aminoácidos y ácidos grasos omega 3 y 6 que ayudan a mantener
   un funcionamiento renal óptimo. Altos niveles de proteínas y fibras naturales además
   de niveles reducidos en grasas, que ayudan a reducir las calorías y a mantener la
