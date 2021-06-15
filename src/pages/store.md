@@ -11,7 +11,6 @@ sections:
     icon: true
     featured_products:
       - src/pages/products/plant1.md
-      - src/pages/products/plant3.md
       - src/pages/products/plant5.md
       - src/pages/products/plant7.md
   - type: promotion_section
