@@ -32,6 +32,7 @@ sections:
       - src/pages/products/perfect-sense-adulto-razas-grandes-15kg.md
       - src/pages/products/diamond-40-lbs-lamb-meal-rice-adult-18.144-kgs.md
       - src/pages/products/full-trust-adulto-20-kg.md
+      - src/pages/products/nupec-adulto-razas-pequenas-8-kgs.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
