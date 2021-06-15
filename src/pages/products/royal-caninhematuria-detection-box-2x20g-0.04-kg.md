@@ -14,8 +14,8 @@ description: SKU:RHDB04 Royal Canin lanza el primer producto que no es alimento;
   para detectar de forma temprana problemas urinarios en gatos.
 price: "490"
 order: 
-default_thumbnail_image: "/images/royal-caninhematuria-detection-box.jpg"
-default_original_image: "/images/royal-caninhematuria-detection-box.jpg"
+default_thumbnail_image: "/images/royal-caninhematuria-detection-box-1.jpg"
+default_original_image: "/images/royal-caninhematuria-detection-box-1.jpg"
 category: src/pages/category/gatos-royal-canin.md
 featured: false
 
