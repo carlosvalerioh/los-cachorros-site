@@ -27,7 +27,6 @@ sections:
     icon: true
     featured_products:
       - src/pages/products/plant1.md
-      - src/pages/products/plant7.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
