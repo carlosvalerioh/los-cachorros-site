@@ -10,8 +10,8 @@ sections:
   section_id: featured_products_section
   icon: true
   featured_products:
+  - src/pages/products/pro-plan-adulto-raza-mediana-13-kg.md
   - src/pages/products/nupec-adulto-20-kgs.md
-  - src/pages/products/plant1.md
 - type: promotion_section
   template: promotion_section
   section_id: promotion_section
