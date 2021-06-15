@@ -8,7 +8,7 @@ seo:
 template: product
 id: ''
 title: Ganador Premium Razas Pequeñas 20 kg
-description: SKU:MN3P <br> Las croquetas para perro Ganador son de alta calidad profesional
+description: SKU:MN3P Las croquetas para perro Ganador son de alta calidad profesional
   para razas pequeñas con beneficios específicos para cubrir sus necesidades Omegas
   3 y 6 que ayudan a mantener su piel y el pelo saludables con el balance ideal de
   estos ácidos grasos esenciales, probióticos y prebióticos que sirven para fortalecer
