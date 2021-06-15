@@ -35,6 +35,7 @@ sections:
       - src/pages/products/nupec-adulto-razas-pequenas-8-kgs.md
       - src/pages/products/hills-gato-c-d-multicare-8.5-lb-3.9-kg.md
       - src/pages/products/pro-plan-cachorro-raza-mediana-13-kg.md
+      - src/pages/products/full-trust-peso-ideal-8-kg.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
