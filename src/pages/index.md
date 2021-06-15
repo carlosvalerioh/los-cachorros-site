@@ -29,6 +29,7 @@ sections:
       - src/pages/products/plant1.md
       - src/pages/products/nupec-adulto-20-kgs.md
       - src/pages/products/pro-plan-adulto-raza-grande-13-kg.md
+      - src/pages/products/pro-plan-adulto-raza-mediana-13-kg.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
