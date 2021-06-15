@@ -17,7 +17,7 @@ price: "665"
 order: 
 default_thumbnail_image: "/images/diamond-maintenance-cat.png"
 default_original_image: "/images/diamond-maintenance-cat.png"
-category: src/pages/category/gatos-diamond.md
+category: src/pages/category/gatos-minino.md
 featured: false
 
 ---
