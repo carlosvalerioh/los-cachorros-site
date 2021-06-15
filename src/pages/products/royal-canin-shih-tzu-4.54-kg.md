@@ -8,7 +8,7 @@ seo:
 template: product
 id: ''
 title: Royal Canin Shih Tzu 4.54 Kg
-description: SKU:RST454 <br> Shih Tzu Adulto de Royal Canin está preparada especialmente
+description: SKU:RST454 Shih Tzu Adulto de Royal Canin está preparada especialmente
   para cubrir las necesidades que tu perro raza Shih Tzu necesita. Con ingredientes
   que fortalecen la piel para ayudar a nutrir el pelaje majestuoso con el que cuentan
   estas mascotas, cubriendo todas sus necesidades además de cuidar sus dientes limpiándolos.
