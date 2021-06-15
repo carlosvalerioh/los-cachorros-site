@@ -8,9 +8,9 @@ seo:
 template: product
 id: ''
 title: Royal Canin Medium Puppy 2.7 Kg
-description: 'SKU:RMP27 <br> El alimento seco para cachorros medianos de Royal Canin
-  es un alimento saludable para un comienzo de vida saludable, contiene una mezcla
-  exclusiva de antioxidantes y minerales que apoyan el desarrollo de su sistema inmunológico
+description: 'SKU:RMP27 El alimento seco para cachorros medianos de Royal Canin es
+  un alimento saludable para un comienzo de vida saludable, contiene una mezcla exclusiva
+  de antioxidantes y minerales que apoyan el desarrollo de su sistema inmunológico
   y mantiene su cuerpo creciendo y desarrollándose de manera optima. '
 price: "490"
 order: 
