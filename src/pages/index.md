@@ -27,7 +27,6 @@ sections:
     icon: true
     featured_products:
       - src/pages/products/nupec-adulto-20-kgs.md
-      - src/pages/products/pro-plan-adulto-raza-grande-13-kg.md
       - src/pages/products/pro-plan-adulto-raza-mediana-13-kg.md
       - src/pages/products/royal-canin-adult-small-dog-9.5-kg.md
       - src/pages/products/perfect-sense-adulto-razas-grandes-15kg.md
