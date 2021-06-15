@@ -13,8 +13,8 @@ description: SKU:OO18RP Alimento premium Nupec 7 años en adelante Previene dolo
   7 años en adelate.
 price: "788"
 order: 
-default_thumbnail_image: "/images/nupec-senior-longevo-razas-pequenas.jpg"
-default_original_image: "/images/nupec-senior-longevo-razas-pequenas.jpg"
+default_thumbnail_image: "/images/nupec-senior-longevo-razas-pequenas-2.jpg"
+default_original_image: "/images/nupec-senior-longevo-razas-pequenas-2.jpg"
 category: src/pages/category/perros-nupec.md
 featured: false
 
