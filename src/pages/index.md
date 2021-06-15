@@ -30,6 +30,7 @@ sections:
       - src/pages/products/pro-plan-adulto-raza-mediana-13-kg.md
       - src/pages/products/royal-canin-adult-small-dog-9.5-kg.md
       - src/pages/products/perfect-sense-adulto-razas-grandes-15kg.md
+      - src/pages/products/diamond-40-lbs-lamb-meal-rice-adult-18.144-kgs.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
