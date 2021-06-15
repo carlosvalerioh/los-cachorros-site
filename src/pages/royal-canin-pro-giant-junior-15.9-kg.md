@@ -14,7 +14,7 @@ price: '1,630'
 order: 
 default_thumbnail_image: "/images/royal-canin-pro-giant-junior.jpg"
 default_original_image: "/images/royal-canin-pro-giant-junior.jpg"
-category: src/pages/category/perros-pro-plan.md
+category: src/pages/category/perros-full-trust.md
 featured: false
 
 ---
