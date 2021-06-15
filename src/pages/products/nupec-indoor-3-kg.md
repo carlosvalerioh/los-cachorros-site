@@ -17,7 +17,7 @@ price: "305"
 order: 
 default_thumbnail_image: "/images/nupec-indoor.jpg"
 default_original_image: "/images/nupec-indoor.jpg"
-category: src/pages/category/perros-nupec.md
+category: src/pages/category/gatos-nupec.md
 featured: false
 
 ---
