@@ -13,8 +13,8 @@ description: SKU:RAG14 Las Croquetas Adult Giant Dog de Royal Canin son ideales 
   su consumo a partir de los 18/24 meses de edad.
 price: '1,500'
 order: 
-default_thumbnail_image: "/images/royal-adult-giant-14-kg.jpg"
-default_original_image: "/images/royal-adult-giant-14-kg.jpg"
+default_thumbnail_image: "/images/royal-adult-giant-14-kg-1.jpg"
+default_original_image: "/images/royal-adult-giant-14-kg-1.jpg"
 category: src/pages/category/perros-royal-canin.md
 featured: false
 
