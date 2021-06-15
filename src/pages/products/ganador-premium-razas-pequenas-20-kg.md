@@ -16,8 +16,8 @@ description: SKU:MN3P <br> Las croquetas para perro Ganador son de alta calidad 
   perros de raza pequeñas, salud bucal para ayudar a disminuir la formación de sarro.
 price: "830"
 order: 
-default_thumbnail_image: "/images/ganador-premium-adulto-png.jpg"
-default_original_image: "/images/ganador-premium-adulto-png.jpg"
+default_thumbnail_image: "/images/ganador-premium-razas-pequenas-20-kgs.jpg"
+default_original_image: "/images/ganador-premium-razas-pequenas-20-kgs.jpg"
 category: src/pages/category/perros-ganador.md
 featured: false
 
