@@ -14,7 +14,7 @@ price: "205"
 order: 
 default_thumbnail_image: "/images/royal-canin-treats-hydrolyzed-dog.jpg"
 default_original_image: "/images/royal-canin-treats-hydrolyzed-dog.jpg"
-category: src/pages/category/perros-pro-plan.md
+category: src/pages/category/perros-full-trust.md
 featured: false
 
 ---
