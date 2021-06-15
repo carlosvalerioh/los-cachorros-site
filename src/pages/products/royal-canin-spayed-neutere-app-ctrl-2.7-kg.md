@@ -14,8 +14,8 @@ description: SKU:RSN27 Después de la esterilización, algunos gatos tienen prob
   alimentación en exceso en los gatos con tendencia a pedir alimento.
 price: "530"
 order: 
-default_thumbnail_image: "/images/royal-canin-spayed-neutere-app-ctrl-2-7-kg.jpg"
-default_original_image: "/images/royal-canin-spayed-neutere-app-ctrl-2-7-kg.jpg"
+default_thumbnail_image: "/images/royal-canin-spayed-neutere-app-ctrl.jpg"
+default_original_image: "/images/royal-canin-spayed-neutere-app-ctrl.jpg"
 category: src/pages/category/gatos-royal-canin.md
 featured: false
 
