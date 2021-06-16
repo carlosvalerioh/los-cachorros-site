@@ -17,7 +17,7 @@ price: "430"
 order: 
 default_thumbnail_image: "/images/minino-plus-10-kg.jpg"
 default_original_image: "/images/minino-plus-10-kg.jpg"
-category: src/pages/category/GATOS-DIAMOND.md
+category: src/pages/category/gatos-minino.md
 featured: false
 
 ---
