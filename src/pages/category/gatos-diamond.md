@@ -7,6 +7,6 @@ seo:
   extra: []
 template: category
 title: GATOS - DIAMOND
-order: 
+order: '0016'
 
 ---
