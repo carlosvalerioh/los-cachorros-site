@@ -1,41 +1,41 @@
----
 label: Category
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-- type: number
-  name: order
-  label: Order
-  description: Numerical order of sorting categories
-- type: field_group
-  name: seo
-  label: Seo
-  fields:
-  - type: include
-    name: include_stackbit_page_meta
-    label: Page meta data
-    template: stackbit_page_meta
-- type: text
-  name: template
-  label: Template
-  hidden: true
-  default: category
-  config:
-    required: true
+  - type: text
+    name: title
+    label: Title
+  - type: number
+    name: order
+    label: Order
+    description: Numerical order of sorting categories
+  - type: field_group
+    name: seo
+    label: Seo
+    fields:
+      - type: include
+        name: include_stackbit_page_meta
+        label: Page meta data
+        template: stackbit_page_meta
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: category
+    config:
+      required: true
 pages:
-- src/pages/category-9lu0vhsbp.md
-- src/pages/category/gatos-hills.md
-- src/pages/category/gatos-minino.md
-- src/pages/category/gatos-nupec.md
-- src/pages/category/gatos-perfect-sense.md
-- src/pages/category/gatos-pro-plan.md
-- src/pages/category/gatos-royal-canin.md
-- src/pages/category/perros-full-trust.md
-- src/pages/category/perros-ganador.md
-- src/pages/category/perros-hills.md
-- src/pages/category/perros-nupec.md
-- src/pages/category/perros-perfect-sense.md
-- src/pages/category/perros-pro-plan.md
-- src/pages/category/perros-royal-canin.md
+  - src/pages/category-9lu0vhsbp.md
+  - src/pages/category/gatos-hills.md
+  - src/pages/category/gatos-minino.md
+  - src/pages/category/gatos-nupec.md
+  - src/pages/category/gatos-perfect-sense.md
+  - src/pages/category/gatos-pro-plan.md
+  - src/pages/category/gatos-royal-canin.md
+  - src/pages/category/perros-full-trust.md
+  - src/pages/category/perros-ganador.md
+  - src/pages/category/perros-hills.md
+  - src/pages/category/perros-nupec.md
+  - src/pages/category/perros-perfect-sense.md
+  - src/pages/category/perros-pro-plan.md
+  - src/pages/category/perros-royal-canin.md
+  - src/pages/category-pz2loj88i.md
