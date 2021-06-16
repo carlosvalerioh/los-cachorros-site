@@ -15,7 +15,7 @@ price: "430"
 default_thumbnail_image: "/images/minino-15-kgs.jpg"
 default_original_image: "/images/minino-15-kgs.jpg"
 featured: false
-category: src/pages/category/gatos-diamond.md
+category: src/pages/category/gatos-minino.md
 order: 
 
 ---
