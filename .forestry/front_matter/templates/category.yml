@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/category/gatos-diamond.md
 - src/pages/category/gatos-hills.md
 - src/pages/category/gatos-minino.md
 - src/pages/category/gatos-nupec.md
