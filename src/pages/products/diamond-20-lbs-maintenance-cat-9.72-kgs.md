@@ -18,4 +18,5 @@ price: '665'
 default_thumbnail_image: /images/diamond-maintenance-cat.png
 default_original_image: /images/diamond-maintenance-cat.png
 featured: false
+category: src/pages/category/gatos-diamond.md
 ---
