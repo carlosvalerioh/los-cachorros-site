@@ -53,7 +53,7 @@ sections:
       - text: >-
           Me gusta encontrar todos los tipos de alimentos y de mejores marcas a
           un mejor precio. Así mi mascota come mejor alimento y es más accesible
-          para miy ARE greener than any of my recruits.
+          para mi.
         author:
           name: MARTA
           location: 64 AÑOS
