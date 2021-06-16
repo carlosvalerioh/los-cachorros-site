@@ -63,15 +63,14 @@ export default class Header extends React.Component {
                                         </span>
                                     </button>
                                     <div className="">
-                                        <span className="snipcart-items-count" /> products | <span className="snipcart-total-price" />
                                     </div>
                                 </div>
-                                <button className="link snipcart-checkout hamburger__checkout">
+                                {/* <button className="link snipcart-checkout hamburger__checkout">
                                     Checkout
                                     <svg width="26" height="14" viewBox="0 0 26 14" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M22.682 6.079h-22.682v1.712h22.814l-4.574 4.528 1.194 1.182 6.566-6.5-6.566-6.5-1.194 1.182 4.442 4.397z" />
                                     </svg>
-                                </button>
+                                </button> */}
                                 <ul className="hamburger__nav">
                                     {_.map(_.get(site, 'siteMetadata.main_menu', null), (item, item_idx) => {
                                         let section = _.get(page, 'frontmatter.section', null) || _.get(page, 'frontmatter.title', null);
