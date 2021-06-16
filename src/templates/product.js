@@ -71,7 +71,7 @@ export default class Product extends React.Component {
                         let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(this.props, 'pageContext.frontmatter.category', null));
                         return (
                             <section className="content__row">
-                                <h2 className="content__row-title">Related</h2>
+                                <h2 className="content__row-title">Relacionados</h2>
                                 <ProductGrid {...this.props} product_pages={product_pages} category_url={_.get(category_page, 'url', null)} cssClass={'store__product-grid'} site={this.props.pageContext.site} />
                             </section>
                         );

@@ -24,7 +24,8 @@ export default class Footer extends React.Component {
                         </li>
                         ))}
                     </ul>
-                    <div className="footer__legal-notice">{_.get(site, 'siteMetadata.footer_text', null)}</div>
+                    <div className="footer__legal-notice">{_.get(site, 'siteMetadata.', null)}</div>
+                    <a className="footer__legal-notice" href="https://servivo.digital/">Desarrollado por servivo.digital</a>
                 </div>
             </footer>
         );
