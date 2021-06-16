@@ -80,7 +80,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Planty Theme
+  title: Los Cachorros
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
