@@ -37,6 +37,7 @@ sections:
       - src/pages/products/pro-plan-cachorro-raza-mediana-13-kg.md
       - src/pages/products/full-trust-peso-ideal-8-kg.md
       - src/pages/products/royal-canin-adult-gato-10-kg.md
+      - src/pages/products/diamond-40-lbs.maintenance-cat-18.144-kgs.md
   - type: testimonials_section
     template: testimonials_section
     section_id: testimonials_section
