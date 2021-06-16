@@ -1,12 +1,12 @@
 ---
 seo:
   type: stackbit_page_meta
-  title: 'GATOS - HILLS'
+  title: 'GATOS-DIAMOND'
   description: ''
   robots: []
   extra: []
 template: category
-title: GATOS - HILLS
-order: '0014'
+title: GATOS-DIAMOND
+order: '0016'
 
 ---
