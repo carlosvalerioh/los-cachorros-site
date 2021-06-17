@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Información
 page_css_class: gray-background
 sections:
   - type: header_section
@@ -33,7 +33,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: FAQ
+  title: Información
   description: This is the faq page
   extra:
   - name: og:type
@@ -41,7 +41,7 @@ seo:
     keyName: property
     relativeUrl: false
   - name: og:title
-    value: FAQ
+    value: Información
     keyName: property
     relativeUrl: false
   - name: og:description
