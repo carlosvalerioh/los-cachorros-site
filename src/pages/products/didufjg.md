@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: ''
-title: didufjg
+title: prueba
 description: jfjfiff
 price: "9999"
 order: 
