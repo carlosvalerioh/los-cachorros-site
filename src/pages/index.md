@@ -7,7 +7,7 @@ sections:
     background_image: /images/karsten-winegeart-tIWBJN8t7zE-unsplash.jpg
     background_image_opacity: 65
     content: >
-      # Los Cachorros 2
+      # Los Cachorros 
 
 
       Todas las marcas de alimentos y alimentos premium para tus mascotas a los
