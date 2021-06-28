@@ -93,7 +93,7 @@ seo:
       value: LOS CACHORROS 
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/header01.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
