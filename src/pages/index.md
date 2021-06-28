@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:description'
       value: LOS CACHORROS 
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: images//images/header01.jpg
       relativeUrl: true
 template: home
 title: Home
