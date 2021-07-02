@@ -21,3 +21,4 @@ category: src/pages/category/gatos-hills.md
 featured: false
 
 ---
+![](/images/bitaminas.png)
