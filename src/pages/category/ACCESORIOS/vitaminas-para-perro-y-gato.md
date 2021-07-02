@@ -4,9 +4,13 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+  - name: ''
+    value: ''
+    keyName: name
+    relativeUrl: false
 template: product
-id: fl3946
+id: "3946"
 title: Vitaminas para perro y gato
 description: Medical Solution
 price: "MS COMPLETE DERMA CARE P/PERROS - 60 TAB\t $189.00 "
