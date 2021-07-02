@@ -16,7 +16,7 @@ price: "MS COMPLETE DERMA CARE P/PERROS - 60 TAB\t $189.00  MS COMPLETE GROWTH P
 order: 
 default_thumbnail_image: "/images/bitaminas.png"
 default_original_image: "/images/bitaminas.png"
-category: ''
+category: src/pages/category/collar.md
 featured: false
 
 ---
