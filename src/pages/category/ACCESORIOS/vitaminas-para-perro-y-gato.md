@@ -17,7 +17,7 @@ price: "MS COMPLETE DERMA CARE P/PERROS - 60 TAB\t $189.00 "
 order: 
 default_thumbnail_image: "/images/bitaminas.png"
 default_original_image: "/images/bitaminas.png"
-category: src/pages/category/collar.md
+category: src/pages/category/gatos-hills.md
 featured: false
 
 ---
