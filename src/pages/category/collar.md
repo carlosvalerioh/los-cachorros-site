@@ -6,7 +6,7 @@ seo:
   robots: []
   extra: []
 template: category
-title: collar
+title: ACCESORIOS
 order: 
 
 ---
