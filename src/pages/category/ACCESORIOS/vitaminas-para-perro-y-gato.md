@@ -10,14 +10,14 @@ seo:
     keyName: name
     relativeUrl: false
 template: product
-id: fl3946
-title: Vitaminas para perro y gato
-description: Medical Solution
-price: " COMPLETE DERMA CARE P/PERROS - 60 TAB\t $189.00"
-order: '011'
-default_thumbnail_image: "/images/bitaminas.png"
-default_original_image: "/images/bitaminas.png"
-category: src/pages/category/collar.md
+id: ''
+title: ''
+description: ''
+price: ''
+order: 
+default_thumbnail_image: ''
+default_original_image: ''
+category: ''
 featured: false
 
 ---
