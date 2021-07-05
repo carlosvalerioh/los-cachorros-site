@@ -7,6 +7,6 @@ seo:
   extra: []
 template: category
 title: ACCESORIOS
-order: 
+order: '011'
 
 ---
