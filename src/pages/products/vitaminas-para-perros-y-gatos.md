@@ -15,7 +15,7 @@ description: >-
   aminoácidos y ácidos grasos en la dieta de gatos mayores de 10 años, con
   problemas de movilidad en las articulaciones, convalecientes de una enfermedad
   o que se encuentran en tratamiento médico
-price: '189'
+price: '189,'
 default_thumbnail_image: /images/bitaminas.png
 default_original_image: /images/bitaminas.png
 category: src/pages/category/collar.md
