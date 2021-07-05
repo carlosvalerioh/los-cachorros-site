@@ -18,7 +18,7 @@ order:
 default_thumbnail_image: "/images/bitaminas-1.png"
 default_original_image: "/images/bitaminas-1.png"
 category: src/pages/category/collar.md
-featured: true
+featured: false
 
 ---
     
