@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: MP01057
-title: 'Trasportadora  '
+title: Trasportadora skudo
 description: >-
   - Transportadora ideal para viaje en autobús, automóvil, barco o avión. -
   Plástico de alta resistencia, durable. - Seguros de plástico resistente y no
