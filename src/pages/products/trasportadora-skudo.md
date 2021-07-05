@@ -15,7 +15,7 @@ description: >-
   - Foso interior que permite que la mascota este siempre seca. - Transportadora
   elaborada con materiales reciclables.  
 price: >-
-  7$2499-   6$1899-    5$1679-   4$1129-   3$519-   2$419-  
+  7$2499-     6$1899-    5$1679-   4$1129-   3$519-   2$419-  
   1$349                                     
 default_thumbnail_image: /images/mp010507trasportadora-skudo.png
 default_original_image: /images/mp010507trasportadora-skudo.png
