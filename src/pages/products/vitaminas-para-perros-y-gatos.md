@@ -13,7 +13,7 @@ price: "189"
 order: 
 default_thumbnail_image: ''
 default_original_image: ''
-category: src/pages/category/collar.md
+category: ''
 featured: false
 
 ---
