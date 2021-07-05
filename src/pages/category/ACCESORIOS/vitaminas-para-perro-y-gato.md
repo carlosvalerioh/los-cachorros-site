@@ -21,4 +21,3 @@ category: ''
 featured: false
 
 ---
-![h9o](/images/bitaminas.png "ko´n")
