@@ -6,14 +6,12 @@ seo:
   robots: []
   extra: []
 template: product
-id: ''
+id: fl3945
 title: Vitaminas para Perros y Gatos
 description: ''
-price: "189"
-order: 
-default_thumbnail_image: "/images/bitaminas.png"
-default_original_image: "/images/bitaminas.png"
+price: '189'
+default_thumbnail_image: /images/bitaminas.png
+default_original_image: /images/bitaminas.png
 category: src/pages/category/collar.md
 featured: false
-
 ---
