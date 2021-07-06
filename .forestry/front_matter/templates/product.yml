@@ -51,6 +51,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/products/alimentador.md
 - src/pages/products/bebedero.md
 - src/pages/products/biberon.md
 - src/pages/products/diamond-18-lbs.senior-8-naturals-8.164-kgs.md
