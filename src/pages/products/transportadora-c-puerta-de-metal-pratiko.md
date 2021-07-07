@@ -17,7 +17,7 @@ description: >-
   veterinario, para entrenamiento e inclusive para descansar, ya que puede
   usarse como casa · La mascota tendrá su propio espacio privado, se sentirá
   segura y prote
-price: 1$229-   2$4299-    3$419
+price: 1$229-   2$.4299-    3$419
 default_thumbnail_image: /images/mp011403trasportadora-pratiko.png
 default_original_image: /images/mp011403trasportadora-pratiko.png
 category: src/pages/category/collar.md
