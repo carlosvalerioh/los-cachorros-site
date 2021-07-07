@@ -17,4 +17,5 @@ default_thumbnail_image: /images/diamond-senior-8-naturals.jpg
 default_original_image: /images/diamond-senior-8-naturals.jpg
 category: src/pages/category/PERROS-DIAMOND.md
 featured: false
+price: '870'
 ---
