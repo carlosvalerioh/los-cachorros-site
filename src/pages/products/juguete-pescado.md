@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: FL8232
-title: 'Juguete caña '
+title: Juguete caña raton
 description: >-
   Juguete para gato en forma de caña de pescar elaborado con textiles naturales,
   señuelo colgante en forma de ratón con plumas, con cascabel y cordón elástico.
