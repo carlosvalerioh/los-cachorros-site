@@ -13,7 +13,7 @@ description: >-
   cordero super premium . Está especialmente formulado con niveles apropiados de
   proteína, grasa calorías y minerales que ayudan a tu cachorro de raza grande a
   crecer y lograr un óptimo desarrollo
-price: '1'
+price: '1700'
 default_thumbnail_image: /images/diamond-large-breed-puppy-lamb-rice.jpg
 default_original_image: /images/diamond-large-breed-puppy-lamb-rice.jpg
 category: src/pages/category/PERROS-DIAMOND.md
