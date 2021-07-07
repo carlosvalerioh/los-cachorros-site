@@ -13,7 +13,6 @@ description: >-
   a la gama Naturals de Diamond. Está especialmente formulado con niveles
   precisos de proteína y grasa que ayudan a tu perro mayor a mantener un cuerpo
   sin sobrepeso y proveen una nutrición para una óptima salud
-price: '1000'
 default_thumbnail_image: /images/diamond-senior-8-naturals.jpg
 default_original_image: /images/diamond-senior-8-naturals.jpg
 category: src/pages/category/PERROS-DIAMOND.md
