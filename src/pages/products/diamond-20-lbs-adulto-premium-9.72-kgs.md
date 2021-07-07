@@ -17,4 +17,5 @@ default_thumbnail_image: /images/diamond-adulto-premium.jpg
 default_original_image: /images/diamond-adulto-premium.jpg
 featured: false
 category: src/pages/category/PERROS-DIAMOND.md
+price: '88'
 ---
