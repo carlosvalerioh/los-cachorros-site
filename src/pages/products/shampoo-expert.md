@@ -17,9 +17,9 @@ description: 'Shampoo Expert para controlar la caída de pelo 500 ml El Shampoo 
   caída debido al debilitamiento de la raíz.'
 price: cada uno cueta lo mismo$59
 order: 
-default_thumbnail_image: ''
-default_original_image: ''
-category: ''
+default_thumbnail_image: "/images/fl3995.png"
+default_original_image: "/images/fl3995.png"
+category: src/pages/category/collar.md
 featured: false
 
 ---
