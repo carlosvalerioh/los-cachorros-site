@@ -15,7 +15,7 @@ description: 'Shampoo Expert para controlar la caída de pelo 500 ml El Shampoo 
   pelaje de tu mascota como recién salido de la estética. Contiene extractos naturales
   que nutren y el pelo desde el folículo en la etapa de crecimiento, controlando la
   caída debido al debilitamiento de la raíz.'
-price: cada uno cueta lo mismo$59
+price: cada uno cuesta lo mismo$59
 order: 
 default_thumbnail_image: "/images/fl3995.png"
 default_original_image: "/images/fl3995.png"
