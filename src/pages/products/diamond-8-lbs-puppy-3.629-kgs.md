@@ -13,7 +13,7 @@ description: >-
   principal ingrediente. Fórmula para las necesidades esenciales de cachorros y
   de perras gestando o  lactando. Ayuda a limpiar los dientes y reducir la
   placa. Formula antioxidante.
-price: '3'
+price: '350'
 default_thumbnail_image: /images/diamond-puppy.jpg
 default_original_image: /images/diamond-puppy.jpg
 category: src/pages/category/PERROS-DIAMOND.md
