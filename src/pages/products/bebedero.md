@@ -17,7 +17,7 @@ description: >-
   agua una vez que vuelva a colocarlo. Ventajas: Agua fresca siempre al alcance
   de tu mascota. Fácil de limpiar y llenar, sólo desenrosca la tapa del
   contenedor. Base antiderrapant
-price: GDE$439-  CH$230
+price: GDE$4-  CH$230
 default_thumbnail_image: /images/fl8490bebedero.png
 default_original_image: /images/fl8490bebedero.png
 category: src/pages/category/collar.md
