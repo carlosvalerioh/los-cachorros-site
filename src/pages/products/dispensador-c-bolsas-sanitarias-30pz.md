@@ -20,4 +20,5 @@ default_thumbnail_image: /images/fl7160fispensador-con-40bolsas.png
 default_original_image: /images/fl7160fispensador-con-40bolsas.png
 category: src/pages/category/collar.md
 featured: false
+price: '65'
 ---
