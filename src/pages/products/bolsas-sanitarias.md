@@ -8,14 +8,13 @@ seo:
 template: product
 id: Fl7162
 title: 'Bolsas sanitarias '
-description: 'Prácticas e higiénicas. Fácil de usar. Resistentes. Ideal como repuesto
-  del dispensador FL7160 Beneficios: Prácticas e higiénicas, fáciles de usar. El largo
-  de las bolsas permite que después de usarlas se amarren fácilmente pa'
-price: "$52 6 rollos)- $27 3 rollos)"
-order: 
-default_thumbnail_image: "/images/fl7162bolsas-plastica.png"
-default_original_image: "/images/fl7162bolsas-plastica.png"
+description: >-
+  Prácticas e higiénicas. Fácil de usar. Resistentes. Ideal como repuesto del
+  dispensador FL7160 Beneficios: Prácticas e higiénicas, fáciles de usar. El
+  largo de las bolsas permite que después de usarlas se amarren fácilmente pa
+price: $52 6 rollos)- $30 3 rollos)
+default_thumbnail_image: /images/fl7162bolsas-plastica.png
+default_original_image: /images/fl7162bolsas-plastica.png
 category: src/pages/category/collar.md
 featured: false
-
 ---
