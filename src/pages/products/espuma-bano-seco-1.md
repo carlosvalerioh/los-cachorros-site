@@ -21,4 +21,5 @@ default_thumbnail_image: /images/fl3942.png
 default_original_image: /images/fl3942.png
 category: src/pages/category/collar.md
 featured: false
+price: '98'
 ---
