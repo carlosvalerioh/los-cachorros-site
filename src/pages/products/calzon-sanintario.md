@@ -16,7 +16,7 @@ description: >-
   perritas. Su uso evita goteos por toda la casa y protege los muebles y
   alfombras de manchas de sangre, cuenta con un snap ajustable para mantener la
   prenda en su lugar.
-price: GDE$64- MED$59- CH$
+price: GDE$64- MED$59- CH$58
 default_thumbnail_image: /images/fl1904calzones-sanitaria.png
 default_original_image: /images/fl1904calzones-sanitaria.png
 category: src/pages/category/collar.md
