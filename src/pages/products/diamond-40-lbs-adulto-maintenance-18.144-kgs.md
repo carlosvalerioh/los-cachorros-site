@@ -17,5 +17,5 @@ default_thumbnail_image: /images/diamond-adulto-maintenance.jpg
 default_original_image: /images/diamond-adulto-maintenance.jpg
 category: src/pages/category/PERROS-DIAMOND.md
 featured: false
-price: '1,400'
+price: '1,150'
 ---
