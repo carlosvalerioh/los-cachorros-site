@@ -14,7 +14,7 @@ description: >-
   que es de vital importancia que contenga todos los nutrientes necesarios para
   su crecimiento. Asegura la energía y vitalidad de tu amigo para que pueda
   correr, saltar y jugar todo el día.
-price: '2'
+price: '270'
 default_thumbnail_image: /images/diamond-maintenance-cat.png
 default_original_image: /images/diamond-maintenance-cat.png
 category: src/pages/category/GATOS-DIAMOND.md
