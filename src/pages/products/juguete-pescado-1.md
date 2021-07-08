@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: FL8234
-title: 'Juguete '
+title: Juguete raton
 description: >-
   2 ratones elaborados con fibras naturales, con relleno tipo sonaja y colas de
   plumas, en tamaño ideal. Para interactuar, diseñado para satisfacer las
