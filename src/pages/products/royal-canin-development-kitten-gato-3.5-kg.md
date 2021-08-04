@@ -8,16 +8,15 @@ seo:
 template: product
 id: ''
 title: Royal Canin Development Kitten Gato 3.5 Kg
-description: SKU:RGK35 Las Croquetas Development Kitten de Royal Canin están diseñadas
-  para el óptimo desarrollo de los gatitos más pequeñitos hasta el año de edad. Defensas
-  Naturales. La asociación de prebióticos con el complejo sinérgico antioxidante (contenido
-  elevado de vitamina E, vitamina C, Luteína y Taurina), para el soporte de las defensas
-  naturales del gatito.
-price: "660"
-order: 
-default_thumbnail_image: "/images/royal-canin-development-kitten-gato.jpg"
-default_original_image: "/images/royal-canin-development-kitten-gato.jpg"
+description: >-
+  SKU:RGK35 Las Croquetas Development Kitten de Royal Canin están diseñadas para
+  el óptimo desarrollo de los gatitos más pequeñitos hasta el año de edad.
+  Defensas Naturales. La asociación de prebióticos con el complejo sinérgico
+  antioxidante (contenido elevado de vitamina E, vitamina C, Luteína y Taurina),
+  para el soporte de las defensas naturales del gatito.
+price: '715'
+default_thumbnail_image: /images/royal-canin-development-kitten-gato.jpg
+default_original_image: /images/royal-canin-development-kitten-gato.jpg
 category: src/pages/category/gatos-royal-canin.md
 featured: false
-
 ---
