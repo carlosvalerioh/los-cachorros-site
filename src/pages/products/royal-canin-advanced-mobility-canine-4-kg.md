@@ -16,7 +16,7 @@ description: >-
   benéficos de este tratamiento dietético, deberá transcurrir un mínimo de 6-8
   semanas con este alimento. Este manejo nutricional puede continuarse el resto
   de la vida del perro.
-price: '70'
+price: '700'
 default_thumbnail_image: /images/royal-advanced-mobility-canine-12-kg.jpeg
 default_original_image: /images/royal-advanced-mobility-canine-12-kg.jpeg
 category: src/pages/category/perros-royal-canin.md
