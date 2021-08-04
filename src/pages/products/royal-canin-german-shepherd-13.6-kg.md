@@ -16,7 +16,7 @@ description: >-
   pescado ayudan a mantener la piel y el pelaje sanos, con glucosamina y la
   condroitina que ayudan a mantener huesos y articulaciones sanos para una
   complexión atlética y de gran tamaño.
-price: '1,'
+price: '1,735'
 default_thumbnail_image: /images/royal-canin-german-shepherd.jpg
 default_original_image: /images/royal-canin-german-shepherd.jpg
 category: src/pages/category/perros-royal-canin.md
