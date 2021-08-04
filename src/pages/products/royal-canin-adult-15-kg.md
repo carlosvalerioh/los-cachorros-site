@@ -14,7 +14,7 @@ description: >-
   reforzar la efectividad de la barrera de piel y limitar el riesgo de
   irritación cutánea por medio de la promoción de síntesis de ceramidas y
   limitando la pérdida de agua transepidérmica.
-price: '1,'
+price: '1,690'
 default_thumbnail_image: /images/royal-canine-adult.jpg
 default_original_image: /images/royal-canine-adult.jpg
 category: src/pages/category/perros-royal-canin.md
