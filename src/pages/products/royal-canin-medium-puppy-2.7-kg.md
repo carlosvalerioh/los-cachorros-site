@@ -14,7 +14,7 @@ description: >-
   exclusiva de antioxidantes y minerales que apoyan el desarrollo de su sistema
   inmunológico y mantiene su cuerpo creciendo y desarrollándose de manera
   optima. 
-price: '4510'
+price: '510'
 default_thumbnail_image: /images/royal-canin-medium-puppy.jpg
 default_original_image: /images/royal-canin-medium-puppy.jpg
 category: src/pages/category/perros-royal-canin.md
