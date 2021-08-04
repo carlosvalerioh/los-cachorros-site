@@ -18,4 +18,5 @@ default_thumbnail_image: /images/royal-canine-adult.jpg
 default_original_image: /images/royal-canine-adult.jpg
 category: src/pages/category/perros-royal-canin.md
 featured: false
+price: '640'
 ---
