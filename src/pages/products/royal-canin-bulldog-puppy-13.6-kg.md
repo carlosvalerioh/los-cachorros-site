@@ -15,7 +15,7 @@ description: >-
   inmunológico y mantiene su cuerpo creciendo fuerte, contiene las proteínas y
   los prebióticos de alta calidad ayudan a promover una calidad óptima de las
   heces.
-price: '1,7'
+price: '1,795'
 default_thumbnail_image: /images/royal-canin-bulldog-puppy.jpg
 default_original_image: /images/royal-canin-bulldog-puppy.jpg
 category: src/pages/category/perros-royal-canin.md
