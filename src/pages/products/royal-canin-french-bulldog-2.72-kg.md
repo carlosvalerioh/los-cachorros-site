@@ -17,4 +17,5 @@ default_thumbnail_image: /images/royal-canin-french-bulldog-1.jpg
 default_original_image: /images/royal-canin-french-bulldog-1.jpg
 category: src/pages/category/perros-royal-canin.md
 featured: false
+price: '500'
 ---
