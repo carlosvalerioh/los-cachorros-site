@@ -14,7 +14,7 @@ description: >-
   de los perros grandes que afrontan los primeros signos de la edad. Contiene un
   complejo de antioxidantes exclusivo que ayuda a neutralizar a los radicales
   libres.
-price: '1,'
+price: '1,725'
 default_thumbnail_image: /images/royal-canin-large-adult.jpg
 default_original_image: /images/royal-canin-large-adult.jpg
 category: src/pages/category/perros-royal-canin.md
