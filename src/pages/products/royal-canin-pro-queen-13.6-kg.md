@@ -13,7 +13,7 @@ description: >-
   lactancia. Ayuda a mantener la salud digestiva. Apela al apetito de Queen para
   fomentar la alimentación. Apoya la transición de la leche materna a los
   alimentos sólidos. Apoya la salud del sistema inmunológico.
-price: '1,930'
+price: '1,700'
 default_thumbnail_image: /images/royal-canin-pro-queen-1.jpg
 default_original_image: /images/royal-canin-pro-queen-1.jpg
 category: src/pages/category/gatos-royal-canin.md
