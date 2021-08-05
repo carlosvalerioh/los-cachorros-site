@@ -14,7 +14,7 @@ description: >-
   fibra dietética que ayudan a mantener un patrón de apetito saludable y
   desalientan la alimentación en exceso en los gatos con tendencia a pedir
   alimento.
-price: '1'
+price: '1105'
 default_thumbnail_image: /images/royal-canin-spayed-neutere-app-ctrl.jpg
 default_original_image: /images/royal-canin-spayed-neutere-app-ctrl.jpg
 category: src/pages/category/gatos-royal-canin.md
