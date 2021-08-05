@@ -15,7 +15,7 @@ description: >-
   de condroitina y ácidos grasos omega 3, particularmente EPA y DHA para
   proteger y nutrir las articulaciones y también ayudar a combatir los
   mecanismos inflamatorios comunes en razas con grandes pesos.
-price: '1,'
+price: '1,815'
 default_thumbnail_image: /images/royal-canin-giant-adult.png
 default_original_image: /images/royal-canin-giant-adult.png
 category: src/pages/category/perros-royal-canin.md
