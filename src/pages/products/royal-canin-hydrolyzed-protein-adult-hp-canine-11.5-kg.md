@@ -15,7 +15,7 @@ description: >-
   gastrointestinales, Enfermedad Inflamatoria Intestinal, Insuficiencia
   Pancreática Exocrina, Diarrea Crónica, Sobre crecimiento bacteriano e
   Intolerancia alimentaria. 
-price: '1,'
+price: '1,890'
 default_thumbnail_image: /images/royal-canin-hydrolyzed-protein-adult-hp-canine.jpg
 default_original_image: /images/royal-canin-hydrolyzed-protein-adult-hp-canine.jpg
 category: src/pages/category/perros-royal-canin.md
