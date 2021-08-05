@@ -15,7 +15,7 @@ description: >-
   alimento dependiendo de cómo lo sienten en la boca. Sabor Sensation cuenta con
   dos croquetas sinérgicas, cada una con una fórmula y textura diferente, que
   estimulan la preferencia de estos gatos.
-price: '550'
+price: '555'
 default_thumbnail_image: /images/royal-canin-selective-savor-sensa-2-7-kg.jpg
 default_original_image: /images/royal-canin-selective-savor-sensa-2-7-kg.jpg
 category: src/pages/category/gatos-royal-canin.md
