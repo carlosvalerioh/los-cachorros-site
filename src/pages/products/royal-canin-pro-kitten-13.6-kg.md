@@ -13,7 +13,7 @@ description: >-
   de edad.Su gatito en crecimiento experimenta grandes cambios y nuevos
   descubrimientos. Durante este periodo clave, el sistema inmunológico del
   gatito sigue desarrollándose.
-price: '1,700'
+price: '1,930'
 default_thumbnail_image: /images/royal-canin-pro-kitten.jpg
 default_original_image: /images/royal-canin-pro-kitten.jpg
 category: src/pages/category/gatos-royal-canin.md
