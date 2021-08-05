@@ -14,7 +14,7 @@ description: >-
   largo). Una combinación de diferentes tipos de fibras que estimula el tránsito
   intestinal y ayuda a facilitar la eliminación del pelo que su gato traga todos
   los días.
-price: '5'
+price: '555'
 default_thumbnail_image: /images/royal-canin-indoor-intense-hairball.jpg
 default_original_image: /images/royal-canin-indoor-intense-hairball.jpg
 category: src/pages/category/gatos-royal-canin.md
