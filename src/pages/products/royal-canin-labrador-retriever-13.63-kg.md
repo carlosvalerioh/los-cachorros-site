@@ -15,7 +15,7 @@ description: >-
   Contiene nutrientes esenciales como EPA, DHA y glucosamina que apoyan la salud
   de los huesos y las articulaciones. Además de nutrientes exclusivos que
   refuerzan la barrera cutánea para mantener la salud de la piel y el pelaje.
-price: '1,885'
+price: '1,'
 default_thumbnail_image: /images/royal-canin-labrador-retriever.jpg
 default_original_image: /images/royal-canin-labrador-retriever.jpg
 category: src/pages/category/perros-royal-canin.md
