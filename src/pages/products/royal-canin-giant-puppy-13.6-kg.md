@@ -13,7 +13,7 @@ description: >-
   meses de edad. Giant Puppy ayuda a reforzar las defensas naturales de su
   cachorro gracias a un exclusivo complejo de antioxidantes incluyendo vitamina
   E.
-price: '1,'
+price: '1,815'
 default_thumbnail_image: /images/royal-canin-giant-puppy.jpg
 default_original_image: /images/royal-canin-giant-puppy.jpg
 category: src/pages/category/perros-royal-canin.md
