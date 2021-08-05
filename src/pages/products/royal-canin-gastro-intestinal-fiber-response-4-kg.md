@@ -16,4 +16,5 @@ default_thumbnail_image: /images/royal-canin-gastro-intestinal-fiber-response.jp
 default_original_image: /images/royal-canin-gastro-intestinal-fiber-response.jpg
 category: src/pages/category/perros-royal-canin.md
 featured: false
+price: '795'
 ---
