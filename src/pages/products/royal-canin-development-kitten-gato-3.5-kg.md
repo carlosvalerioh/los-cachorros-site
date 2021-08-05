@@ -14,7 +14,7 @@ description: >-
   Defensas Naturales. La asociación de prebióticos con el complejo sinérgico
   antioxidante (contenido elevado de vitamina E, vitamina C, Luteína y Taurina),
   para el soporte de las defensas naturales del gatito.
-price: '715'
+price: '790'
 default_thumbnail_image: /images/royal-canin-development-kitten-gato.jpg
 default_original_image: /images/royal-canin-development-kitten-gato.jpg
 category: src/pages/category/gatos-royal-canin.md
