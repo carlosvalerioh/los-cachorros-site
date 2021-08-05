@@ -18,4 +18,5 @@ default_thumbnail_image: /images/royal-canin-gastro-intestinal-low-fat.jpg
 default_original_image: /images/royal-canin-gastro-intestinal-low-fat.jpg
 category: src/pages/category/perros-royal-canin.md
 featured: false
+price: '565'
 ---
