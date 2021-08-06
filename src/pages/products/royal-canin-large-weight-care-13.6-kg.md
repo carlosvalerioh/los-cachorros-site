@@ -13,7 +13,7 @@ description: >-
   partir de los 15 meses de edad) y maduros de talla grande (de 26 a 44 kg),
   está diseñado para perros con tendencia al aumento de peso, limitando dicho
   aumento debido a que un elevado contenido de proteínas
-price: '1,'
+price: '1,615'
 default_thumbnail_image: /images/royal-canin-large-weight-care-13-6-kg.jpg
 default_original_image: /images/royal-canin-large-weight-care-13-6-kg.jpg
 category: src/pages/category/perros-royal-canin.md
