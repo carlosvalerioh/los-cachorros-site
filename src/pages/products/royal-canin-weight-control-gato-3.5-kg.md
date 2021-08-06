@@ -14,7 +14,7 @@ description: >-
   contenido calórico y de grasa, elevada cantidad de fibra, ayudan a los gatos a
   mantener su peso ideal. Enriquecido con L-carnitina, la cual es transportador
   de ácidos grasos hacia la mitocondria.
-price: '805'
+price: '730'
 default_thumbnail_image: /images/royal-canin-weight-control-gato.jpg
 default_original_image: /images/royal-canin-weight-control-gato.jpg
 category: src/pages/category/gatos-royal-canin.md
