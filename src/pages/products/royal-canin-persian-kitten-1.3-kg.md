@@ -17,5 +17,5 @@ default_thumbnail_image: /images/royal-canin-persian-kitten.jpg
 default_original_image: /images/royal-canin-persian-kitten.jpg
 category: src/pages/category/gatos-royal-canin.md
 featured: false
-price: '675'
+price: '285'
 ---
