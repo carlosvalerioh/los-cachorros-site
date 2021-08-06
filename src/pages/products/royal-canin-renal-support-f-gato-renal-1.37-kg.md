@@ -15,7 +15,7 @@ description: >-
   ayudar a reducir la carga de trabajo en los riñones. Fuentes de energía de
   alta calidad para compensar el bajo consumo de alimento y para combatir la
   pérdida de peso, ayudándolo a mantener una buena condición corporal.
-price: '400'
+price: '360'
 default_thumbnail_image: /images/royal-canin-renal-support-f-gato-renal.jpg
 default_original_image: /images/royal-canin-renal-support-f-gato-renal.jpg
 category: src/pages/category/gatos-royal-canin.md
