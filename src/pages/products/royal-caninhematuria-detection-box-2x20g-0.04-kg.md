@@ -13,7 +13,7 @@ description: >-
   en la detección de sangre en la orina (hematuria) en gatos. Hematuria
   Detection tecnología desarrollada por Blücare, es una prueba casera, sencilla
   y muy eficaz para detectar de forma temprana problemas urinarios en gatos.
-price: '535'
+price: '485'
 default_thumbnail_image: /images/royal-caninhematuria-detection-box-1.jpg
 default_original_image: /images/royal-caninhematuria-detection-box-1.jpg
 category: src/pages/category/gatos-royal-canin.md
