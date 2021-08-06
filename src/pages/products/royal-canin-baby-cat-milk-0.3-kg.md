@@ -13,7 +13,7 @@ description: >-
   muy numerosas. Para un crecimiento estable y armonioso, la composición de la
   leche Babycat milk, es lo más cercano posible a la leche materna, con altos
   niveles de energía y proteína.
-price: '475'
+price: '430'
 default_thumbnail_image: /images/royal-canin-baby-cat-milk-0-3-kg.jpg
 default_original_image: /images/royal-canin-baby-cat-milk-0-3-kg.jpg
 category: src/pages/category/gatos-royal-canin.md
