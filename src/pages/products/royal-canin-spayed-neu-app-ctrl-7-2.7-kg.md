@@ -15,7 +15,7 @@ description: >-
   nivel de fibras que satisfacen el apetito de los gatos con tendencia a pedir
   alimento al mismo tiempo que contribuyen naturalmente a disminuir la sensación
   de hambre.
-price: '555'
+price: '5'
 default_thumbnail_image: /images/royal-canin-spayed-neutere-app-ctrl-2-7-kg.jpg
 default_original_image: /images/royal-canin-spayed-neutere-app-ctrl-2-7-kg.jpg
 category: src/pages/category/gatos-royal-canin.md
