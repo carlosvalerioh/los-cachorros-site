@@ -13,7 +13,7 @@ description: >-
   diseñado para gatos obesos, con sobrepeso y diabetes mellitus. Enriquecido con
   nutrientes, minerales y vitaminas para evitar de ciencias durante el periodo
   de restricción calórica.
-price: '365'
+price: '330'
 default_thumbnail_image: /images/royal-canin-satiety-support-gato.jpg
 default_original_image: /images/royal-canin-satiety-support-gato.jpg
 category: src/pages/category/gatos-royal-canin.md
