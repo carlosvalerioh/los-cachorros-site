@@ -16,5 +16,4 @@ default_thumbnail_image: /images/royal-canin-persian.jpg
 default_original_image: /images/royal-canin-persian.jpg
 category: src/pages/category/gatos-royal-canin.md
 featured: false
-price: '315'
 ---
