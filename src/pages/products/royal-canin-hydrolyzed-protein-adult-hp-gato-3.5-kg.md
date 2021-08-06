@@ -18,5 +18,5 @@ default_thumbnail_image: /images/royal-canin-hydrolyzed-protein-adult-hp-gato.jp
 default_original_image: /images/royal-canin-hydrolyzed-protein-adult-hp-gato.jpg
 category: src/pages/category/gatos-royal-canin.md
 featured: false
-price: '875'
+price: '730'
 ---
