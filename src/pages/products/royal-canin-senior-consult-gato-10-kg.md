@@ -14,7 +14,7 @@ description: >-
   que es de vital importancia que contenga todos los nutrientes necesarios para
   su crecimiento. Asegura la energía y vitalidad de tu amigo para que pueda
   correr, saltar y jugar todo el día.
-price: '1,575'
+price: '1,50'
 default_thumbnail_image: /images/royal-canin-senior-consult-gato.png
 default_original_image: /images/royal-canin-senior-consult-gato.png
 category: src/pages/category/gatos-royal-canin.md
