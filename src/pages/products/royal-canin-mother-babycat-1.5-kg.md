@@ -13,7 +13,7 @@ description: >-
   períodos de gestación o lactancia, así como para gatitos de 1 a 4 meses de
   edad. Aporta un complejo patentado de antioxidantes que refuerza las defensas
   naturales de los gatitos.
-price: '330'
+price: '310'
 default_thumbnail_image: /images/royal-canin-mother-babycat.jpg
 default_original_image: /images/royal-canin-mother-babycat.jpg
 category: src/pages/category/gatos-royal-canin.md
