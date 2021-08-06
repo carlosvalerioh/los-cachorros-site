@@ -13,7 +13,7 @@ description: >-
   patentado sinérgico antioxidante, ayuda a combatir el envejecimiento celular
   neutralizando radicales libres, mientras que el contenido reducido en fósforo
   ayuda a conservar la función renal con la edad.
-price: '1,'
+price: '1,575'
 default_thumbnail_image: /images/royal-canin-mature-consult-large-dog.jpg
 default_original_image: /images/royal-canin-mature-consult-large-dog.jpg
 category: src/pages/category/perros-royal-canin.md
