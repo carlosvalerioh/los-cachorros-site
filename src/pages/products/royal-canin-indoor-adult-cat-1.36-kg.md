@@ -14,7 +14,7 @@ description: >-
   alimento en el tracto intestinal del gato reduciendo con esto la presencia de
   malos olores fecales, todo esto gracias a la adición de zeolita, proteínas de
   alta digestión, pulpa de remolacha y FOS.
-price: '315'
+price: '600'
 default_thumbnail_image: /images/royal-canin-indoor-adult-cat.jpg
 default_original_image: /images/royal-canin-indoor-adult-cat.jpg
 category: src/pages/category/gatos-royal-canin.md
