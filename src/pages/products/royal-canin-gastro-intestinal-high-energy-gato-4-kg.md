@@ -15,7 +15,7 @@ description: >-
   inflamatoria (EII), Mala digestión, mala absorción, colitis según estado
   clínico, convalecencia, sobre crecimiento bacteriano, insuficiencia hepática
   (excepto encefalopatía hepática) anorexia, gastritis, enteritis, colitis.
-price: '990'
+price: '900'
 default_thumbnail_image: /images/royal-canin-gastro-intestinal-high-energy-gato-1-png.jpg
 default_original_image: /images/royal-canin-gastro-intestinal-high-energy-gato-1-png.jpg
 category: src/pages/category/gatos-royal-canin.md
