@@ -8,7 +8,7 @@ seo:
 template: product
 id: ''
 title: jf
-description: ''
+description: gft
 price: ''
 default_original_image: /images/club-he-dog-15-kg.jpg
 category: src/pages/category/perros-royal-canin.md
