@@ -6,5 +6,5 @@ seo:
   robots: []
   extra: []
 template: category
-order: '013'
+order: 0
 ---
