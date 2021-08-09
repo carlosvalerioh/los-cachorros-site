@@ -14,7 +14,7 @@ description: >-
   que fortalecen la piel para ayudar a nutrir el pelaje majestuoso con el que
   cuentan estas mascotas, cubriendo todas sus necesidades además de cuidar sus
   dientes limpiándolos.
-price: '8'
+price: '850'
 default_thumbnail_image: /images/royal-canin-shih-tzu.jpg
 default_original_image: /images/royal-canin-shih-tzu.jpg
 category: src/pages/category/perros-royal-canin.md
