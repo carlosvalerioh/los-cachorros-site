@@ -7,7 +7,6 @@ seo:
   extra: []
 template: product
 id: ''
-default_original_image: /images/club-he-dog-15-kg.jpg
 category: src/pages/category/perros-royal-canin.md
 featured: false
 ---
