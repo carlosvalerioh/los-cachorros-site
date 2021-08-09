@@ -7,7 +7,6 @@ seo:
   extra: []
 template: product
 id: ''
-title: jf
 description: gft
 price: '212'
 default_original_image: /images/club-he-dog-15-kg.jpg
