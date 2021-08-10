@@ -8,12 +8,13 @@ seo:
 template: product
 id: ''
 title: Royal Canin Hydrolyzed Protein Adult HP SmallDog 4 Kg
-description: >-
-  SKU:RHS4 Alimento para perros adultos de talla pequeña, con una reacción
+description: SKU:RHS4 Alimento para perros adultos de talla pequeña, con una reacción
   adversa al alimento y con sobrepeso, esterilizados o maduros.
-price: '910'
-default_thumbnail_image: /images/royal-canin-hydrolyzed-protein-adult-hp-smalldog.jpg
-default_original_image: /images/royal-canin-hydrolyzed-protein-adult-hp-smalldog.jpg
+price: "825"
+default_thumbnail_image: "/images/royal-canin-hydrolyzed-protein-adult-hp-smalldog.jpg"
+default_original_image: "/images/royal-canin-hydrolyzed-protein-adult-hp-smalldog.jpg"
 category: src/pages/category/perros-royal-canin.md
 featured: false
+order: 
+
 ---
