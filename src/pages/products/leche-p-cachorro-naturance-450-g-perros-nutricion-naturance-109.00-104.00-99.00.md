@@ -7,8 +7,7 @@ seo:
   extra: []
 template: product
 id: FL3868
-title: "LECHE P/CACHORRO NATURANCE 450 G\tPerros\tNutrición\tNaturance\t $109.00 \t
-  $104.00 \t $99.00 "
+title: "LECHE P/CACHORRO NATURANCE 450 G\t"
 description: 'El sustituto de leche para cachorros de Naturance es una fórmula en
   polvo especializada que está recomendada para hembras gestantes y lactantes, en
   perros cachorros se usa como suplemento de leche materna, en casos de falta de producción
