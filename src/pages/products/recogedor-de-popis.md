@@ -7,7 +7,7 @@ seo:
   extra: []
 template: product
 id: FL8483
-title: Recogedor de popís
+title: Recogedor de heces
 description: 'Ligero y práctico tamaño. Fácil agarre y tracción. Ideal para cualquier
   superficie. Beneficios: Recogedor de plástico ligero, fácil y seguro de usar. Manejo
   con una sola mano.'
