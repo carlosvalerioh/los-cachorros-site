@@ -14,7 +14,7 @@ description: 'El sustituto de leche para cachorros de Naturance es una fórmula 
   de la madre o en camadas huérfanas. Es fácil de disolver y preparar. Incluye cuchara
   dosificadora. Análisis garantizado: Proteína cruda Mín. 20.00% Grasa cruda Mín.
   22.00% Fibra cruda Máx. 0.15% Humedad Máx. 5.50% Cenizas Máx. 8.00% ELN Mín. 44.35%'
-price: "$109.00 "
+price: '109.00 '
 order: 
 default_thumbnail_image: "/images/fl3868sustituto-de-leche.png"
 default_original_image: "/images/fl3868sustituto-de-leche.png"
