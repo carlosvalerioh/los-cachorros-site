@@ -27,7 +27,7 @@ export default class BuyButton extends React.Component {
                     </svg>
                 </span>
                 <span className="button__text">
-                    <a href="https://wa.me/+525561821461" >
+                    <a href="https://wa.me/+525510922790" >
                         Lo quiero 
                     </a>
                 </span>
